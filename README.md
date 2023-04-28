@@ -1,2 +1,3 @@
-# MachineLearning
-For all ML projects
+# Machine Learning Models
+
+This will be for all ML projects.
